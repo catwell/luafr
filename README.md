@@ -1,3 +1,3 @@
 # luafr
 
-Sources du site [luafr.org](http://luafr.org).
+Sources du site [luafr.org](https://luafr.org).
